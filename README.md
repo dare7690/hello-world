@@ -1,2 +1,5 @@
 # hello-world
-my first github experiment 
+
+My first github experiment 
+
+Hey Kyle, this is my first time using Github!
